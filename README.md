@@ -1,6 +1,6 @@
 # AirlineDB-SQL-Analytics
 
-##1. Project Overview - 
+## Project Overview - 
 AirlineDB & Flight Operations Analytics is a comprehensive SQL-based project created to analyze airline bookings, flight schedules, ticketing data, passenger check-ins, aircraft configurations, and airport performance. The analysis provides a clear view of overall operational performance, route demand, booking trends, and passenger movement patterns.
 
 2. Business Problem -
