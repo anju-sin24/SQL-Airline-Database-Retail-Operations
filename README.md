@@ -53,6 +53,6 @@ The queries help uncover critical operational takeaways, including:
 * Discrepancies in passenger check-ins where tickets were booked but boarding passes were unissued.
 * Effective revenue distribution across distinct fare conditions and aircraft classes.
   
-9. Queries Overview -
+## Queries Overview -
   https://github.com/anju-sin24/SQL-Airline-Database-Retail-Operations/blob/main/SQL_queries.zip
 
